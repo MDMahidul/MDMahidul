@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahidul</h1>
 <h3 align="center">My name is MD Mahidul Islam, and I'm a skilled web developer with 2 years of experience. I specialize in creating responsive and user-friendly websites using a variety of technologies, including HTML, CSS, JavaScript, jQuery, PHP, and MySQL. I'm also proficient in working with CSS frameworks such as Bootstrap and Tailwind.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmahidul" alt="mdmahidul" /></a> </p>
+
 
 - 🔭 I’m currently working on [heroGadget](https://github.com/MDMahidul/heroGadget)
 
