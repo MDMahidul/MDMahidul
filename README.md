@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [ema-john](https://github.com/MDMahidul/ema-john)
+- 🔭 I’m currently working on [The Dragon News](https://github.com/MDMahidul/dragon-news)
 
 - 🌱 I’m currently learning **Next.js**
 
