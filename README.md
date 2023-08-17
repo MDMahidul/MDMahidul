@@ -3,8 +3,6 @@
 
 
 
-- 🔭 I’m currently working on [The Dragon News](https://github.com/MDMahidul/dragon-news)
-
 - 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **html, css, php, javascript, react js**
