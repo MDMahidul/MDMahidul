@@ -3,11 +3,13 @@
 
 
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **next.js**
 
 - 💬 Ask me about **html, css, php, javascript, react js**
 
 - 📫 How to reach me **mmbmahidul007@gmail.com**
+  
+- 💼 Portfolio: https://mahidulislam-6e334.web.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
